@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LinearLayoutExercicio</string>
+    <string name="exerc_cio_de_layouts_em_kotlin">Exercício de Layouts em Kotlin</string>
 </resources>
